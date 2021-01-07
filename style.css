@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+}
+{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+  background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.image-are img{
+width: 100%;
+}
+.
+.image-are img{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.image-area img{
+width: 33.33%;
+}
+.last-area img{
+    width: 70%;
+    float: inherit;
+}
+footer h2{
+    text-align: center;
+    font-size: 50px;
+}
+footer h4{
+    text-align: center;
+    font-size: 30px;
+}
